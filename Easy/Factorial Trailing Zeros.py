@@ -1,4 +1,4 @@
-#1 The number of zeros is the sum of the weight of all as power of 5
+'''1 The number of zeros is the sum of the weight of all as power of 5'''
 
 class Solution:
     # @return an integer
@@ -9,7 +9,7 @@ class Solution:
             n /= 5
         return zeros
 
-#3 Too complicated
+'''2 Too complicated'''
 
 class Solution:
     # @return an integer
